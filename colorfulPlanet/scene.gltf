@@ -2685,34 +2685,34 @@
 			"buffer":0,
 			"byteLength":11520,
 			"byteOffset":0,
-			"byteStride": 2,
+			
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":11520,
-			"byteStride": 12,
+			
 			"byteOffset":11520,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":7680,
-			"byteStride": 16, 
+			
 			"byteOffset":23040,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":2880,
-			"byteStride": 18,
+			
 			"byteOffset":30720,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":2880,
-			"byteStride": 20,
+			
 			"byteOffset":33600,
 			"target":34962
 		},
@@ -2731,7 +2731,7 @@
 		{
 			"buffer":0,
 			"byteLength":480,
-			"byteStride": 6,
+			
 			"byteOffset":41280,
 			"target":34963
 		},
