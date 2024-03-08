@@ -1477,19 +1477,19 @@
 	],
 	"images":[
 		{
-			"mimeType":"image/png",
+			"mimeType":"image/webp",
 			"name":"Image_2",
-			"uri":"Image_2.png"
+			"uri":"Image_2.webp"
 		},
 		{
-			"mimeType":"image/png",
+			"mimeType":"image/webp",
 			"name":"Image_1",
-			"uri":"Image_1.png"
+			"uri":"Image_1.webp"
 		},
 		{
-			"mimeType":"image/png",
+			"mimeType":"image/webp",
 			"name":"Image_0",
-			"uri":"Image_0.png"
+			"uri":"Image_0.webp"
 		}
 	],
 	"accessors":[
@@ -2829,7 +2829,7 @@
 	"buffers":[
 		{
 			"byteLength":241920,
-			"uri":"untitled.bin"
+			"uri":"scene.bin"
 		}
 	]
 }
